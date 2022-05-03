@@ -3,8 +3,8 @@
 TODO: Add more information about the project
 
 ## Authors:
-* Burak Künkçü (@burakkunkcu)
-* Ceyhun Emre Öztürk (@ceyhunemreozturk)
+* Burak Künkçü ([@burakkunkcu](https://github.com/burakkunkcu/))
+* Ceyhun Emre Öztürk ([@ceyhunemreozturk](https://github.com/ceyhunemreozturk))
 
 ## Requirements:
 * Python environment (virtualenv, conda etc.)
